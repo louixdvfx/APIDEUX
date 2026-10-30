@@ -1,0 +1,11 @@
+{
+  "name": "api-mediatheque",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
